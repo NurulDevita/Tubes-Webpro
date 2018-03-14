@@ -1,0 +1,28 @@
+body{
+	background-color : #eee;
+}
+.container{
+	background-color: white;
+	height: 80%;
+	width: 35%;
+	margin-top: 5%;
+}
+.container img{
+	width: 40%;
+	height: 30%;
+	margin-top: 1rem;
+	margin-bottom: 1rem;
+}
+.form-group label{
+	color: #36c5cc;
+}
+.form-group input{
+	border: 1px solid #36c5cc;
+}
+.btn{
+	width: 100%;
+	margin-top: 5%;
+	background-color: #36c5cc;
+	border: 1px solid #36c5cc;
+	margin-bottom: 4%;
+}
